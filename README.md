@@ -1,5 +1,5 @@
-# ODIN Docker image
-[Docker image](https://hub.docker.com/r/lucamora/odin) of [ODIN](https://github.com/rnt-pmi/odin) pluggable meta-annotations and metrics for the diagnosis of classification and localization.
+# ODIN Docker image (unofficial)
+Unofficial [Docker image](https://hub.docker.com/r/lucamora/odin) of [ODIN](https://github.com/rnt-pmi/odin) pluggable meta-annotations and metrics for the diagnosis of classification and localization.
 
 ## Usage
 Mount the folder with the notebooks inside a container based on the ODIN image:
